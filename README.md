@@ -47,7 +47,7 @@ As you can see above, the refactored times for 2017 and 2018 were faster than th
 
 The advantage of refactoring the code is not only will the code run faster, but it is easier to read and therefore easier to update in the future. The refactored code allows for a better understanding of the function of each line of code. However code refactoring can be time consuming, as you are trying to figure out a new way to perform the same function as the original code. Also, refactoring code can take multiple trials in order to test each change to the code. 
 
-Figuring our the refactored loop did take a considerable more amount of time than writing the double loop. Refactoring the original code decreased the run time and thus increased the efficiency. This efficiency was attained but removing the double loop and refactoring the code for a single loop. Please refer below.
+Figuring out the refactored loop did take a considerable more amount of time than writing the double loop. Refactoring the original code decreased the run time and thus increased the efficiency. This efficiency was attained but removing the double loop and refactoring the code for a single loop. Please refer below.
 
 **Original Loop**
 

@@ -15,11 +15,12 @@ The above tables were created in part with the following code.  The code was des
 
 ![Code](https://user-images.githubusercontent.com/92542382/140671536-e04bb13b-e72f-48e3-a222-dd2532c62c20.png)
 
-‘ENPH’ also has a 274% year over year percent increase in daily volume of trades. 
+‘ENPH’ also has a 174% year over year percent increase in daily volume of trades. 
 
-‘RUN’ had a 188% year over year percent increase in daily volume of trades. 
+‘RUN’ had a 88% year over year percent increase in daily volume of trades. 
 
-![% Change ENPH_RUN](https://user-images.githubusercontent.com/92542382/140671566-a93d8399-0f7e-4f01-8203-129bbb2cdba3.png)
+![% Change Both](https://user-images.githubusercontent.com/92542382/140674349-e065f78f-2655-4a2f-9ae2-a6ee50105ebe.png)
+
 
 As you can see below, whereas 2018 has more trade volume overall for all the analyzed stocks, it still had a worse return of stock price than 2017. 
 

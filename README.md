@@ -57,7 +57,7 @@ Figuring our the refactored loop did take a considerable more amount of time tha
 
 ![Original Loop](https://user-images.githubusercontent.com/92542382/140672010-7ba7ade4-6dda-4381-ab56-ff09a41a1c1b.png)
 
-**Refactored Loop **
+**Refactored Loop**
 
 ![Refactored Loop](https://user-images.githubusercontent.com/92542382/140672031-f220c593-5e96-4ce1-9403-849926a064a0.png)
 

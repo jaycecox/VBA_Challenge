@@ -6,10 +6,7 @@ To analyze the stock performances of a given set of stocks using the most effici
 
 **Results Refactored Code:**
 
-Overall the stocks had a better return in 2017 than in 2018.  Except for ‘TERP’, all of the 2017 stocks had a positive return, which you can see below. 
-
-However, in 2018 the only stocks to have a positive return was ‘ENPH’ and ‘RUN”.  This analysis shows then that the two best stocks to invest in were ‘ENPH’ and ‘RUN’ because they had growth both years.   
-
+Overall the stocks had a better return in 2017 than in 2018.  Except for ‘TERP’, all of the 2017 stocks had a positive return, which you can see below. However, in 2018 the only stocks to have a positive return was ‘ENPH’ and ‘RUN”.  This analysis shows then that the two best stocks to invest in were ‘ENPH’ and ‘RUN’ because they had growth both years.   
 ![2017 Stock Perf Screen Shot](https://user-images.githubusercontent.com/92542382/140671490-3293c951-e5ea-4a6b-969e-b3e24a832c95.png)
 
 ![2018 Stock Perf Screen Shot](https://user-images.githubusercontent.com/92542382/140671498-24ac1b4e-7b31-4e89-b983-7f1fe84277da.png)
@@ -48,9 +45,7 @@ As you can see above, the refactored times for 2017 and 2018 were faster than th
 
 **Summary**
 
-The advantage of refactoring the code is not only will the code run faster, but it is easier to read and therefore easier to update in the future. The refactored code allows for a better understanding of the function of each line of code. 
-
-However code refactoring can be time consuming, as you are trying to figure out a new way to perform the same function as the original code. Also, refactoring code can take multiple trials in order to test each change to the code. 
+The advantage of refactoring the code is not only will the code run faster, but it is easier to read and therefore easier to update in the future. The refactored code allows for a better understanding of the function of each line of code. However code refactoring can be time consuming, as you are trying to figure out a new way to perform the same function as the original code. Also, refactoring code can take multiple trials in order to test each change to the code. 
 
 Figuring our the refactored loop did take a considerable more amount of time than writing the double loop. Refactoring the original code decreased the run time and thus increased the efficiency. This efficiency was attained but removing the double loop and refactoring the code for a single loop. Please refer below.
 

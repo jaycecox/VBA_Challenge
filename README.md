@@ -31,7 +31,7 @@ As you can see below, whereas 2018 has more trade volume overall for all the ana
 
 **Refactored Code Execution Times**
 
-![2017 refactored time](https://user-images.githubusercontent.com/92542382/140671675-f965c0ca-2af8-4796-8830-49c41f3e7e07.png)
+![2017 refactored time](https://user-images.githubusercontent.com/92542382/140672656-278cf8b9-a752-44be-98ae-2b4ee5d904a5.png)
 
 ![2018 refactored time](https://user-images.githubusercontent.com/92542382/140671789-722a7e16-e042-40e1-94e9-bc9e36fbfe2f.png)
 
@@ -45,7 +45,7 @@ As you can see below, whereas 2018 has more trade volume overall for all the ana
 
 As you can see above, the refactored times for 2017 and 2018 were faster than the times for the original code. 
 
-**Summary **
+**Summary**
 
 The advantage of refactoring the code is not only will the code run faster but it is easier to read and therefore easier to update in the future. The refactored code allows for a better understanding of the function of each line of code. 
 
